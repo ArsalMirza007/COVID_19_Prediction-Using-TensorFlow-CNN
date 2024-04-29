@@ -21,7 +21,6 @@ Welcome to the Chext X-ray Images Data Set repository. This repository contains 
 - [Model](#model)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
