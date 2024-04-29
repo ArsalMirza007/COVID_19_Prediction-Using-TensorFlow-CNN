@@ -8,9 +8,6 @@
 ![loss](https://github.com/ArsalMirza007/COVID_19_Prediction-Using-TensorFlow-CNN/assets/121928372/a2c87538-ff95-4e42-b5af-99dfcf50106d)
 
 
-Here's a README description for your GitHub repository:
-
----
 
 # Chext X-ray Images Data Set
 
