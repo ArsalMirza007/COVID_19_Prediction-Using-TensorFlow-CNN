@@ -3,7 +3,6 @@
 ## Output Screenshots:
 ![dataset sample](https://github.com/ArsalMirza007/COVID_19_Prediction-Using-TensorFlow-CNN/assets/121928372/7f778953-7a76-4b92-a977-a8f6ff3fbef7)
 ![confusion matrix](https://github.com/ArsalMirza007/COVID_19_Prediction-Using-TensorFlow-CNN/assets/121928372/feb4fade-e186-4caf-b71e-7d2c21d965bf)
-![classification report](https://github.com/ArsalMirza007/COVID_19_Prediction-Using-TensorFlow-CNN/assets/121928372/c0885d97-cec6-4cff-94c7-6fec7ef1bd78)
 ![accuracy](https://github.com/ArsalMirza007/COVID_19_Prediction-Using-TensorFlow-CNN/assets/121928372/75ef4146-bae2-49d9-a40e-f59da34b6ed2)
 ![loss](https://github.com/ArsalMirza007/COVID_19_Prediction-Using-TensorFlow-CNN/assets/121928372/a2c87538-ff95-4e42-b5af-99dfcf50106d)
 
